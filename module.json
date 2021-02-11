@@ -1,0 +1,60 @@
+{   
+   "name": "klaessassetcollection",   
+   "title": "Klaess' Asset Collection",   
+   "description": "Klaess' Compilation of Assets, Scenes, Items, Class Features, Racial Features, Monster Features, Spells, Scenes and Actors",   
+   "author": "Klaess",
+   "version": "1.0.0",
+   "minimumCoreVersion": "0.5.0",
+   "compatibleCoreVersion":"0.5.5",
+   "packs": [
+{
+      "label": "Klaess' Actor Compendium",
+      "entity": "Actor",
+      "name": "klaess-actor-compendium",
+      "path": "packs/klaess-actor-compendium.db",
+      "module": "KlaessAssetCollection"
+    },
+    {
+      "label": "Klaess' Item Compendium",
+      "entity": "Item",
+      "name": "klaess-item-compendium",
+      "path": "packs/klaess-item-compendium.db",
+       "module": "KlaessAssetCollection"
+    },
+    {
+      "label": "Klaess' Spell Compendium",
+      "entity": "Item",
+      "name": "klaess-spell-compendium",
+      "path": "packs/klaess-spell-compendium.db",
+      "module": "KlaessAssetCollection"
+    },
+    {
+      "label": "Klaess' Class Features Compendium",
+      "entity": "Item",
+      "name": "klaess-class-features-compendium",
+      "path": "packs/klaess-class-features-compendium.db",
+      "module": "KlaessAssetCollection"
+    },
+    {
+      "label": "Klaess' Racial Features Compendium",
+      "entity": "Item",
+      "name": "klaess-racial-features-compendium",
+      "path": "packs/klaess-racial-features-compendium.db",
+      "module": "KlaessAssetCollection"
+    },
+    {
+      "label": "Klaess' Monster Features Compendium",
+      "entity": "Item",
+      "name": "klaess-monster-features-compendium",
+      "path": "packs/klaess-monster-features-compendium.db",
+      "module": "KlaessAssetCollection"
+    },
+    {
+      "label": "Klaess' Scenes Compendium",
+      "entity": "Scene",
+      "name": "klaess-scenes-compendium",
+      "path": "packs/klaess-scenes-compendium.db",
+      "module": "KlaessAssetCollection"
+    }
+  ]
+ }
